@@ -5,17 +5,17 @@ header-img: img/home-bg.jpg
 email: jufengliushao@163.com
 description: "thinking->coding->thinking..."
 keyword: "huxpro"
-url: "https://huxpro.github.io"              # your host, for absolute URL
+url: "https://jufengliushao.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+#weibo_username:     huxpro
+#zhihu_username:     huxpro
+github_username:    "https://jufengliushao.github.io"
+#twitter_username:   huxpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
