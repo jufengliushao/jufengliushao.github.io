@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      "iOS AppStore 应用审核部分问题"
+subtitle:   "About iphone"
+date:       2018-2-6
+author:     "jufengliushao"
+header-img: ""
+tags:
+- Work
+---
 # ##### **iOS AppStore 应用审核部分问题**
 
 - 写在前面的话
